@@ -1,0 +1,24 @@
+{
+  "name": "CurrentStatus",
+  "version": "1.0.0",
+  "description": "CurrentStatus is a web application to update current status by team members, instead of manager following up every hour.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/venkisree/DailyStatus"
+  },
+  "keywords": [
+    "dailystatus",
+    "scrum",
+    "agile"
+  ],
+  "author": "Venkatesh Mamidipalli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkisree/DailyStatus/issues"
+  },
+  "homepage": "https://github.com/venkisree/DailyStatus"
+}

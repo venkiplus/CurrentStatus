@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+html, body {
+    height: 100%;
+}
+body{
+  margin: 0;
+}
+.header{
+  text-align: center;
+}
+.header .logo{
+  font-size: 32px;
+  color:#e74c3c;
+}
+.main-container{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.loader{
+  width:400px;
+  height:200px;
+  background: url('../images/loader.gif') no-repeat;
+}
+
+.main-container p{
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+.logo{
+  font-family: 'Pacifico', cursive;
+}

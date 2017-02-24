@@ -4,7 +4,8 @@
   "description": "CurrentStatus is a web application to update current status by team members, instead of manager following up every hour.",
   "main": "index.js",
   "scripts": {
-    "test": "gulp test"
+    "test": "gulp test",
+    "server": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/venkisree/DailyStatus/issues"
   },
-  "homepage": "https://github.com/venkisree/DailyStatus"
+  "homepage": "https://github.com/venkisree/DailyStatus",
+  "devDependencies": {
+    "express": "^4.14.1",
+    "express-ntlm": "^2.1.5",
+    "gulp": "^3.9.1",
+    "lite-server": "^2.2.2",
+    "path": "^0.12.7"
+  }
 }

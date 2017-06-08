@@ -1,0 +1,25 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      node C:\Users\43983674\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase login
+[debug] CLI Version:  3.3.0
+[debug] Platform:     win32
+[debug] Node Version: v0.10.33
+[debug] Time:         Thu Feb 16 2017 14:17:45 GMT+0530 (India Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] 
+[info] Visit this URL on any device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase&response_type=code&state=651208930&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] >>> HTTP REQUEST POST https://accounts.google.com/o/oauth2/token { code: '4/pHnkYhklLzk8Hm9IYUzAN6GpverdG86sTk18hK17_8s',
+  client_id: '563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com',
+  client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
+  redirect_uri: 'http://localhost:9005',
+  grant_type: 'authorization_code' } 
+ Thu Feb 16 2017 14:18:26 GMT+0530 (India Standard Time)
+[debug] >>> HTTP REQUEST POST https://accounts.google.com/o/oauth2/token { code: '4/uHGKmtRppA39Dq7noKdnZLkWLxm3j8FxqjOzQz0qf6k',
+  client_id: '563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com',
+  client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
+  redirect_uri: 'http://localhost:9005',
+  grant_type: 'authorization_code' } 
+ Thu Feb 16 2017 14:18:43 GMT+0530 (India Standard Time)
